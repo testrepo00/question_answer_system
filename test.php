@@ -1,4 +1,4 @@
 <?php
 
-echo 'deneme 123';
+echo 'deneme 123 dal-1';
 
