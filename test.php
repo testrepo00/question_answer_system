@@ -1,4 +1,4 @@
 <?php
 
-echo 'deneme 123 45';
+echo 'deneme 123';
 
