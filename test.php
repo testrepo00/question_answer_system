@@ -1,4 +1,4 @@
 <?php
 
-echo 'kemal';
+echo "test1";
 
